@@ -1,0 +1,14 @@
+{"configuration": {
+  "query": {
+    "query": "{query_placeholder}",
+    "destinationTable": {
+      "projectId": "panda-premium-analytics",
+      "datasetId": "all",
+      "tableId": "foodpanda_aggregatted_table"
+    },
+    "createDisposition": "CREATE_IF_NEEDED",
+    "writeDisposition": "WRITE_TRUNCATE"
+  }
+ }
+}
+

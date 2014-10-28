@@ -1,0 +1,387 @@
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_8Cr2S7hRBKoY_c_ZU0JlF5ZKL64?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_bfqMN3SXD1HFQA78Ih7YAKTGhY4?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_K3b6XKdZckQBPxTXPzTI-PrPIOI?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_YDxfwzmapXez-v8c-SNPKJ6GBPc?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/jobs?alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:oauth2client.client:Attempting refresh to obtain initial access_token
+INFO:oauth2client.client:Refreshing access_token
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
+INFO:root:Job not yet complete...
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/bigquery/v2/rest
+INFO:root:Sending query to bigquery
+INFO:googleapiclient.discovery:URL being requested: GET https://www.googleapis.com/bigquery/v2/projects/panda-premium-analytics/queries/job_CbnGgqMmBhBR4VuReAZ-8i7KCMo?timeoutMs=10&alt=json
+WARNING:oauth2client.util:execute() takes at most 1 positional argument (2 given)
